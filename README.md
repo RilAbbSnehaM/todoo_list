@@ -1,16 +1,32 @@
-# todoo_list
+# Todoo List - Flutter Project
 
-A new Flutter project.
+## Description
+**Todoo List** is a Flutter application designed to manage your tasks effectively. It includes features like:
+- Task management using **SQLite** for storing and retrieving tasks.
+- **Hive** for managing theme preferences and sorting settings.
+- **Riverpod** for managing the state of the application.
+- A clean UI with a focus on ease of use and performance.
 
-## Getting Started
+## Features
+- **Task Management**: Add, edit, and delete tasks.
+- **Theme Preferences**: Store and load theme settings using Hive.
+- **Sorting**: Save and retrieve sorting preferences using Hive.
+- **State Management**: Use Riverpod for global state management.
+- **SQLite Database**: Efficient storage and management of tasks.
 
-This project is a starting point for a Flutter application.
+## Requirements
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (Version: 3.6.0 or above)
+- Dart SDK (Compatible with the Flutter version)
+- Android Studio / VS Code (or any other preferred IDE for Flutter development)
+- Xcode (For iOS development, if needed)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Setup Instructions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Clone the Repository
+
+First, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/todoo_list.git
+cd todoo_list
