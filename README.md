@@ -28,5 +28,5 @@
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/todoo_list.git
+[git clone https://github.com/your-username/todoo_list.git](https://github.com/RilAbbSnehaM/todoo_list.git)
 cd todoo_list
